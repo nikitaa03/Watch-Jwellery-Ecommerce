@@ -1,3 +1,3 @@
 # Watch-Jwellery-Ecommerce Website
-using HTML and CSS.
-Logo and backgorund images created with canva.
+Website is created using HTML and CSS.
+Logo design and backgorund designs are created with canva.
